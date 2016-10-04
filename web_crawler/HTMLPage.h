@@ -97,13 +97,6 @@ class HTMLPage
 	
 }; //end of class HTMLPage
 
-
-
-
-
-
-
-
 } //end of namespace WebDataExtraction
 
 #endif //_HTMLPAGE_H_
